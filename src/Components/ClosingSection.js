@@ -7,7 +7,7 @@ const ClosingSection = () => {
     <>
       <div className="w-full font-tide text-center text-lg max-sm:text-sm max-sm:px-[10px] my-5">
         &copy; 2023
-        <Link target="_blank" to={"https://github.com/jesse-maurice"}>
+        <Link target="_blank" to={""}>
           <span className="hover:underline text-[#ef5350]">
             {" "}
             Designed & Photographed by DaMi{" "}

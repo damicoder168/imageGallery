@@ -30,12 +30,12 @@ const Main = () => {
               creative needs.
             </p>
             <Link to={"/Login"}>
-              <button
+              {/* <button
                 className="bg-[#ef5350] hover:bg-transparent hover:border-2 hover:border-[#ef5350] rounded-3xl mt-10 font-tide cursor-pointer px-[70px] py-[12px] max-sm:mt-10 max-sm:px-[50px] max-sm:text-sm text-[#ffffff] transition duration-300 ease-in-out sm:text-lg md:text-xl lg:text-2xl xl:text-2xl"
                 type="submit"
               >
                 Join Community
-              </button>
+              </button> */}
             </Link>
           </div>
         </div>

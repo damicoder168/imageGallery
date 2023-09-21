@@ -12,7 +12,7 @@ const Navbar = () => {
           </span>
           <h1 className="font-bold text-xl mt-[3px] font-tide max-sm:hidden ">
             {" "}
-            MONOCHROME.
+            
           </h1>
         </div>
         <div className=" font-rale pt-[7px] text-lg font-semibold">
@@ -21,7 +21,7 @@ const Navbar = () => {
               className=" bg-[#ef5350] font-tide px-[30px] hover:border-[3px] max-sm:py-[7px] max-sm:px-[20px] max-sm:text-lg hover:border-black transition duration-300 ease-in-out py-[10px] rounded-lg"
               type="submit"
             >
-              Log In
+              Log out
             </button>
           </Link>
         </div>
